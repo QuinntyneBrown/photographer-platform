@@ -1,2 +1,2 @@
-# photographer-platform
-Photographer Platform
+# chloe-seed
+Chloe Seed
